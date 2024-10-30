@@ -1,0 +1,14 @@
+.DS_Store
+.ipynb_checkpoints/
+.vscode/
+.idea/
+covid/.ipynb_checkpoints/
+covid/__pycache__/
+covid/old/
+data/.DS_Store
+__pycache__/
+__pycache_-
+/conda-build-1.20.1/dist/
+/conda-build-1.20.1/conda_build.egg-info/
+/data/
+/materials/
